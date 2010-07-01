@@ -1,0 +1,8 @@
+Scripts need to be optimized:
+3
+7
+10
+12
+14
+21
+23
